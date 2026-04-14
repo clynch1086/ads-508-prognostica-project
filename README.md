@@ -65,7 +65,7 @@ Prognostica provides market insights for B2B companies in various markets. Cance
 
 # Data Sources
 
-The data sources were acquired from various sources including the CDC WONDER website, Kaggle, and the EPA Toxics Release Inventory (TRI) Program.
+The data collected from multiple public sources: 
 
 - Kaggle - Lung Cancer Dataset
 
