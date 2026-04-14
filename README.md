@@ -17,9 +17,12 @@
 
     In SageMaker Studio, open the notebooks and run them in order:
 
-         LIST THEM
+       01_cancer_data_ingestion_exploration.ipynb   
 
+       02_data_preprocessing.ipynb
 
+       03_training_evaluation.ipynb
+   
 
 # Contributors
 
@@ -64,26 +67,21 @@ Prognostica provides market insights for B2B companies in various markets. Cance
 
 The data sources were acquired from various sources including the CDC WONDER website, Kaggle, and the EPA Toxics Release Inventory (TRI) Program.
 
-- Chandan M. S. R. (n.d.). Lung cancer dataset. Kaggle. 
+- Kaggle - Lung Cancer Dataset
 
   https://www.kaggle.com/datasets/chandanmsr/lung-cancer-dataset 
 
-- Centers for Disease Control and Prevention. (n.d.). United States cancer statistics public use database (2001–2022). 
+- CDC Wonder- U.S. Cancer Statistics (2001-2022)
 
   https://wonder.cdc.gov/cancer-v2022.html 
 
-- Global Oncology Trends 2025. IQVIA. (2025, May 22).
+- Global Oncology Trends 2025 - IQVIA
 
   https://www.iqvia.com/insights/the-iqvia-institute/reports-and-publications/reports/global-oncology-trends-2025 
 
 
-
-
-
-# Refereces
-
-- United States Environmental Protection Agency. (n.d.). TRI dioxin and dioxin-like compounds and toxic equivalency (TEQ) data files. 
+- EOA TRI program - Dioxin and TEQ data files. 
 
   https://www.epa.gov/toxics-release-inventory-tri-program/tri-dioxin-and-dioxin-compounds-and-teq-data-files-calendar 
 
-# Project and Presentation
+# Presentation
